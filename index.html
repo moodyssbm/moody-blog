@@ -14,6 +14,17 @@
     {block:Description}
       <p id="description">{Description}</p>
     {/block:Description}
-    
+    <ol id="posts">
+      {block:Posts}
+        {block:Text}
+          <li class="post text">
+            {block:Title}
+              <h3>{Title}</h3>
+            {/block:Title}
+            {Body}
+          </li>
+        {/block:Text}
+      {/block:Posts}
+    </ol>
   </body>
 </html>
