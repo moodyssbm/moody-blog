@@ -3,7 +3,13 @@ body {
 }
 
 #title {
-  font-family: sans-serif;;
+  font-family: sans-serif;
+  color: #FFFFFF;
+}
+
+.titlebg {
+  background-color: #000000;
+  opacity: 0.5; 
 }
 
 #description {
