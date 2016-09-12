@@ -32,8 +32,9 @@ ol {
   padding: 5px;
   margin: 20px;
   align-content: center;
+  align-items: center;
   align-self: center;
-  width: 750px;
+  width: 500px;
 }
 
 .text {
