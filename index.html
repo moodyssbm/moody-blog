@@ -26,6 +26,14 @@
             {Body}
           </li>
         {/block:Text}
+        {block:Photo}
+          <li class="post photo">
+            <img src="{PhotoURL-500}" alt="{PhotoAlt}"/>
+            {block:Caption}
+              <div class="caption">{Caption}</div>
+            {/block:Caption}
+          </li>
+        {/block:Photo}
       {/block:Posts}
     </ol>
   </body>
