@@ -2,6 +2,10 @@ body {
   background-color: #E5E5E5;
 }
 
+ol {
+  list-style-type: none;
+}
+
 #title {
   font-family: sans-serif;
   color: #FFFFFF;
