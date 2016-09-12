@@ -30,6 +30,9 @@ ol {
   /* stuff */
   border: 1px solid black;
   padding: 5px;
+  margin: 20px;
+  align-content: center;
+  align-self: center;
   width: 750px;
 }
 
