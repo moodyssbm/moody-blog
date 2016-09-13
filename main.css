@@ -24,6 +24,7 @@ ol {
 
 #posts {
   /* stuff */
+  align-items: center;
 }
 
 .post {
