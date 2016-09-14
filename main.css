@@ -28,7 +28,7 @@ ol {
 .blogpic {
   display: block;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 10px;
   border-radius: 50%;
 }
 
