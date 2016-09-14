@@ -1,9 +1,21 @@
 body {
   background-color: #E5E5E5;
+  font-family: sans-serif;
 }
 
 ol {
   list-style-type: none;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #333333;
+  height: 60px;
+  font-size: 20px;
+  color: white;
 }
 
 #title {
