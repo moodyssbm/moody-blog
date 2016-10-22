@@ -44,9 +44,9 @@ ol {
 
 .post {
   margin: 20px;
-  align-content: center;
-  align-items: center;
-  align-self: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 500px;
   background-color: white;
 }
