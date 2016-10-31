@@ -77,6 +77,14 @@ a:visited {
   padding-bottom: 20px;
 }
 
-.photoset img {
-  border-radius: 10px;
+.quote, .source {
+  padding: 5px;
+}
+
+.quote {
+  font: 20px bold;
+}
+
+.source {
+  font: 14px italic;
 }
