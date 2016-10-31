@@ -48,6 +48,7 @@ a:visited {
   width: 500px;
   background: white;
   box-shadow: -5px 5px 5px grey;
+  font-family: sans-serif;
 }
 
 .post img {
