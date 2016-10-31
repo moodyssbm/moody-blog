@@ -82,10 +82,12 @@ a:visited {
 }
 
 .quote {
-  font: 20px bold;
+  font: 20px;
+  font-weight: bold;
   text-align: center;
 }
 
 .source {
-  font: 14px italic;
+  font: 14px;
+  font-style: italic;
 }
