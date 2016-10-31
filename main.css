@@ -77,11 +77,8 @@ a:visited {
   padding-bottom: 20px;
 }
 
-.quote, .source {
-  padding: 5px;
-}
-
 .quote {
+  padding: 5px;
   font: 20px;
   font-weight: bold;
   text-align: center;
@@ -90,4 +87,5 @@ a:visited {
 .source {
   font: 14px;
   font-style: italic;
+  font-weight: normal;
 }
