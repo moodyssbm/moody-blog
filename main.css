@@ -105,3 +105,10 @@ a:visited {
   font-size: 14px;
   font-weight: normal;
 }
+
+.chat {
+  list-style-type: none;
+  font-style: italic;
+  font-size: 14px;
+  padding: 10px 0px;
+}
