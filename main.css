@@ -63,7 +63,6 @@ a:visited {
 .text {
   text-align: center;
   font-family: sans-serif;
-  padding: 10px 0px;
 }
 
 .photo {
@@ -71,5 +70,5 @@ a:visited {
 }
 
 .caption {
-  padding: 5px;
+  padding: 10px;
 }
