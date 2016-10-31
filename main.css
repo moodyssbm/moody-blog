@@ -76,3 +76,7 @@ a:visited {
   margin-left: 20px;
   padding-bottom: 20px;
 }
+
+.photoset {
+  border-radius: 10px;
+}
