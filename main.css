@@ -8,11 +8,11 @@ ol {
 }
 
 a {
-  color: thistle;
+  color: pink;
 }
 
 a:hover {
-  color: pink;
+  color: thistle;
 }
 
 a:visited {
