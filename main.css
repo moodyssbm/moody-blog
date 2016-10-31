@@ -8,7 +8,15 @@ ol {
 }
 
 a {
-  color: black;
+  color: thistle;
+}
+
+a:hover {
+  color: pink;
+}
+
+a:visited {
+  color: purple;
 }
 
 #title {
