@@ -9,6 +9,7 @@ ol {
 
 a {
   color: pink;
+  text-decoration: none;
 }
 
 a:hover {
