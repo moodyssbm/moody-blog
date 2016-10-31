@@ -39,7 +39,7 @@ ol {
 
 #posts {
   /* stuff */
-  align-items: center;
+  margin-top: 66px;
 }
 
 .post {
