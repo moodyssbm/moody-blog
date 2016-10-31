@@ -32,6 +32,7 @@ a:visited {
 }
 
 .theTop {
+  padding-top: 5px;
   font-family: sans-serif;
   width: 500px;
   display: block;
