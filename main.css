@@ -47,6 +47,8 @@ a {
 }
 
 .text {
+  text-align: center;
+  font-family: sans-serif;
   padding: 5px 0px;
 }
 
