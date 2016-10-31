@@ -97,4 +97,6 @@ a:visited {
 
 .description {
   background: white;
+  padding: 0px;
+  border-bottom: 10px solid white;
 }
