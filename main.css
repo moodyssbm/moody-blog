@@ -1,39 +1,18 @@
 body {
-  background-color: #E5E5E5;
-  font-family: sans-serif;
+  background: #e5e5e5;
 }
 
 ol {
   list-style-type: none;
+  padding-left: 0px;
 }
 
 a {
   color: black;
 }
 
-.post img {
-  width: 500px;
-}
-
-.theTop {
-  width: 500px;
-  border-bottom: 1px solid grey;
-  text-align: center;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 #title {
-  font-size: 58px;
-  font-family: sans-serif;
-  color: white;
-}
-
-.blogpic {
-  display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
+  /* stuff */
 }
 
 #description {
@@ -41,7 +20,16 @@ a {
 }
 
 #posts {
-  margin-top: 66px;
+  /* stuff */
+}
+
+.theTop {
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-bottom: 1px solid grey;
 }
 
 .post {
@@ -50,20 +38,18 @@ a {
   margin-left: auto;
   margin-right: auto;
   width: 500px;
-  background-color: white;
+  background: white;
   box-shadow: -5px 5px 5px grey;
 }
 
 .text {
-  /* stuff */
-  padding: 5px 0px 5px 0px;
+  padding: 5px 0px;
 }
 
 .photo {
-  /* stuff */
+  width: 500px;
 }
 
 .caption {
-  /* stuff */
   padding: 5px;
 }
