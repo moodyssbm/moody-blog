@@ -46,6 +46,7 @@ a:visited {
   text-align: center;
   background: white;
   border-radius: 10px;
+  box-shadow: -5px 5px 5px black;
 }
 
 .theBottom, p {
