@@ -48,6 +48,10 @@ a:visited {
   border-radius: 10px;
 }
 
+.theBottom, p {
+  padding: 5px 0px;
+}
+
 .post {
   border-radius: 10px;
   margin-bottom: 20px;
