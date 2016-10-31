@@ -25,9 +25,8 @@ ol {
 
 #title {
   font-size: 30px;
-  text-align: center;
   font-family: sans-serif;
-  color: #white;
+  color: white;
 }
 
 .blogpic {
@@ -51,7 +50,7 @@ ol {
   margin-right: auto;
   width: 500px;
   background-color: white;
-  box-shadow: 5px 5px 5px grey;
+  box-shadow: -5px 5px 5px grey;
 }
 
 .text {
