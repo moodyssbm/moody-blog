@@ -83,6 +83,7 @@ a:visited {
 
 .quote {
   font: 20px bold;
+  text-align: center;
 }
 
 .source {
