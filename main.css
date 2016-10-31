@@ -42,12 +42,16 @@ a {
   box-shadow: -5px 5px 5px grey;
 }
 
+.post img {
+  width: 500px;
+}
+
 .text {
   padding: 5px 0px;
 }
 
 .photo {
-  width: 500px;
+  /* stuff */
 }
 
 .caption {
