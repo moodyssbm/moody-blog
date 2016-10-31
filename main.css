@@ -50,6 +50,8 @@ a:visited {
 }
 
 .theTop img {
+  padding-top: 3px;
+  border: 2px solid pink;
   border-radius: 50%;
   display: block;
   margin-left: auto;
