@@ -21,16 +21,15 @@ ol {
 
 #title {
   font-size: 30px;
-  text-align: left;
+  text-align: center;
   font-family: sans-serif;
   color: #white;
 }
 
 .blogpic {
-  display: block;
+  display: inline-block;
   margin-left: auto;
-  margin-right: 10px;
-  border-radius: 50%;
+  margin-right: auto;
 }
 
 #description {
