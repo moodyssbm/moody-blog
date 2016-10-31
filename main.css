@@ -50,7 +50,7 @@ a:visited {
 }
 
 .theTop img {
-  marigin-top: 3px;
+  marigin-top: 10px;
   border: 2px solid pink;
   border-radius: 50%;
   display: block;
