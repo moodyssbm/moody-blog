@@ -41,6 +41,7 @@ a:visited {
   text-align: center;
   border-bottom: 1px solid black;
   background: white;
+  border-radius: 10px;
 }
 
 .post {
