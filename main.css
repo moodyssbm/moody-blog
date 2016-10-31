@@ -112,3 +112,12 @@ a:visited {
   font-size: 14px;
   padding: 10px 0px;
 }
+
+.chat h3 {
+  font-size: 20px;
+  text-align: center;
+}
+
+.chat ul {
+  padding-left: 20px;
+}
