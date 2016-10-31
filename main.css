@@ -78,10 +78,10 @@ a:visited {
 }
 
 .quote {
+  padding: 10px 0px;
   font: 20px;
   font-weight: bold;
   text-align: center;
-  margin: 10px;
 }
 
 .source {
