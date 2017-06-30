@@ -21,7 +21,7 @@ a:hover {
 }
 
 a:visited {
-  color: purple;
+  color: thistle;
 }
 
 #title {
@@ -90,6 +90,7 @@ a:visited {
 }
 
 .caption {
+  width: 80%;
   margin-left: 20px;
   padding-bottom: 20px;
 }
